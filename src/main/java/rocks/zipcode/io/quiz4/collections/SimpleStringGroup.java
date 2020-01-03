@@ -9,7 +9,8 @@ public class SimpleStringGroup {
     }
 
     public Integer count() {
-        return null;
+        Integer numToAdd = 0;
+        return 0;
     }
 
     public void insert(String string) {
