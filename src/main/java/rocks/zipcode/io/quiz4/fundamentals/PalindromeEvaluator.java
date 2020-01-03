@@ -28,6 +28,8 @@ public class PalindromeEvaluator {
     }
 
     public static String reverseString(String string) {
-        return null;
+        String reverse = new StringBuilder(string).reverse().toString();
+
+        return reverse;
     }
 }
