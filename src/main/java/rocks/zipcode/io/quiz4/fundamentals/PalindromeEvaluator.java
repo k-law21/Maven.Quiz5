@@ -20,7 +20,7 @@ public class PalindromeEvaluator {
                 return false;
 
             i++;
-            j++;
+            j--;
         }
 
             return true;
